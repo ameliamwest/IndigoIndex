@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Indigo Art Index
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: It's a Blue World!
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "The Indigo Index is a personal repository of the essays, images, and resources I discover that are relevant to contemporary indigo dye practices. My purpose in sharing it is to visualize for others the beauty and range of artistry which are encompassed by indigo dyeing."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Amelia West
 
 ##########
 # COLLECTION SETTINGS
