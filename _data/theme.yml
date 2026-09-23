@@ -92,8 +92,6 @@ navbar-background: bg-dark
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
 bootswatch: cerulean
- * Bootswatch v5.3.8 (https://bootswatch.com)
- * Theme:
 
 # THEME FONTS
 base-font-size: 1.2em
